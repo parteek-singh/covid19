@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Happy",
+        "value": 8940000
+    },
+    {
+        "name": "Sad",
+        "value": 5000000
+    },
+    {
+        "name": "lost",
+        "value": 7200000
+    },
+    {
+        "name": "Crying",
+        "value": 6200000
+    },
+    {
+        "name": "Party",
+        "value": 4200000
+    },
+    {
+        "name": "Emotion1",
+        "value": 8200000
+    },
+    {
+        "name": "Party",
+        "value": 4200000
+    },
+    {
+        "name": "Emotion1",
+        "value": 8200000
+    }
+]
